@@ -1,6 +1,8 @@
 # python-asynchronous-tasks
 </hr>
 
+![](http://snakeproject.ru/rubric/files/dpcr_20012022/1.jpg)
+
 ##  Setup & Installation 
 Create a virtual environment and install the dependencies:
 ```bash
